@@ -1,0 +1,77 @@
+body{
+    background-color: darkgray;
+ 
+   
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    margin: 20px;
+   
+
+}
+
+h1{
+    margin: auto;
+    font-size: 2em;
+    padding: 1em;
+    
+
+}
+
+.imgprincipal{
+    width: 100vw;
+    margin-top: 2em;
+}
+
+.Principal{
+  border: 3px solid black;
+  margin: auto;
+  width: 60vw;
+  padding: 1em;
+  display: flex;
+  
+}
+
+.imgMundo{
+    display: flex;
+    justify-content: baseline;
+    width: 50vw;
+}
+.donde{
+
+    display: flex;
+    
+
+}
+
+#paises{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lista{
+    width: 50vw;
+  
+    display: flex;
+    justify-content: center;
+  
+
+}
+
+.imgIconos{
+    width: 70px;
+    height: 70px;
+}
+
+.cajaiconos{
+    display: flex;
+    flex-direction: column;
+}
+.redes{
+    margin-top: 2em;
+    display: flex;
+    justify-content: space-around;
+}
+
